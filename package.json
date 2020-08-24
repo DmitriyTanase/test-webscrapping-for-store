@@ -1,0 +1,23 @@
+{
+  "name": "Webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "jsonstream": "^1.0.3",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.14",
+    "needle": "^2.4.1",
+    "puppeteer": "^3.0.2",
+    "request": "^2.88.2",
+    "stream-to-mongo-db": "^1.6.0",
+    "tress": "^1.1.4"
+  }
+}
